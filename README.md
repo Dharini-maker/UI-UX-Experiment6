@@ -52,11 +52,11 @@ Create a site map showing categorized structure.
 ## Output:
 
 
-## **Solution Ideation**
+## Solution Ideation
 
 Use a known UX problem (e.g., booking an appointment in a hospital app).
 
-### ** Problem Statement**
+## Problem Statement
 
 Users often face difficulty navigating hospital apps to book appointments. Issues may include unclear navigation, too many steps, lack of doctor availability info, or non-intuitive UI.
 
