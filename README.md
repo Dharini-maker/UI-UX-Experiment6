@@ -236,7 +236,7 @@ Feeling relieved, Aisha gets back to her morning chaos, comforted by the fact th
 
 ## 5.Information Architecture (IA)
 
-![image](https://github.com/user-attachments/assets/ea8aac22-b4d3-4c36-a16a-2ce506d72ef3)
+![arch](https://github.com/user-attachments/assets/3d5d9655-b4c7-49f3-95ab-3aa6a1f7e2ef)
 
 
 
